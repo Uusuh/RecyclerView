@@ -3,10 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/uus/RecyclerView/app/src/main/res/drawable/background_btn.xml" value="0.1525" />
+        <entry key="..\:/uus/RecyclerView/app/src/main/res/drawable/background_btn_blue.xml" value="0.1525" />
         <entry key="..\:/uus/RecyclerView/app/src/main/res/layout/activity_main.xml" value="0.16289592760180996" />
+        <entry key="..\:/uus/RecyclerView/app/src/main/res/layout/activity_profil.xml" value="0.25" />
         <entry key="..\:/uus/RecyclerView/app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
         <entry key="..\:/uus/RecyclerView/app/src/main/res/layout/detail_data_pemain.xml" value="0.33" />
         <entry key="..\:/uus/RecyclerView/app/src/main/res/layout/list_item_pemain.xml" value="0.25" />
+        <entry key="..\:/uus/RecyclerView/app/src/main/res/menu/menu_main.xml" value="0.209375" />
       </map>
     </option>
   </component>
